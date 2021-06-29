@@ -1,5 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.pressedkonbu.flutter_push">
+
+    <!-- 参考:https://qiita.com/1d7678174656/items/0c2f233d70e7b678e2f7 -->
+
+
+
    <application
         android:label="flutter_push"
         android:icon="@mipmap/ic_launcher">
